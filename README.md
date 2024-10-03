@@ -18,7 +18,7 @@ Under the guidance of Dr. Shailendra Kumar Singh.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-  “https://github.com/dubeyadityaa99/DeepFake-image-detection-using-CNN.git”
+https://github.com/dubeyadityaa99/DeepFake-image-detection-using-CNN.git
 
 2. Navigate to the project directory:
    “cd DeepFake-image-detection-using-CNN”
